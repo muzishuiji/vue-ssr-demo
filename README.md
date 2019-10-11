@@ -1,4 +1,4 @@
-# vue-ssr
+# vue-ssr-demo
 Vue SSR初探
 
 1. 不要再beforeCreate和created生命周期产生全局副作用的代码,因为这两个生命周期钩子是在服务端渲染的过程中被调用的.
